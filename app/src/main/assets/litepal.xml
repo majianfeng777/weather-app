@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.newland.weather.db.Province"/>
+        <mapping class="com.newland.weather.db.City"/>
+        <mapping class="com.newland.weather.db.County"/>
+    </list>
+</litepal>
